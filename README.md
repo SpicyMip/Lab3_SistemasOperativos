@@ -1,12 +1,6 @@
 Nombre: Martin Eduardo Pino Cornejo
-Rut: 20.559.927-4
-Rol: 202073528-k
-Paralelo: 201
 
-Nombre: Luciano Alexis Nicolas Yevenes Cotal
-Rut: 20.811.500-6
-Rol: 202173514-3
-Paralelo: 201
+Nombre: Luciano Alexis Nicolas Yevenes Cotal [(Github)](https://github.com/lucio0809)
 
 Todas las pruebas fueron ejecutadas en la sistema operativo Ubuntu 22.04.2 LTS y compiladas con la version de Java openjdk 19.0.2
 
